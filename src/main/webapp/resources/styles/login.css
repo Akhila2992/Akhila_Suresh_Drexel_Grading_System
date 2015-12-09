@@ -1,0 +1,64 @@
+.login_headersec {
+	height: 19%;
+	background-image: url(../images/login_Header_BG.jpg);
+	background-repeat: repeat-x;
+	border-top: 4px solid #000000;
+}
+
+.login_quinnox_logo {
+	margin-left: 15px;
+}
+
+.login_qfocus_logo {
+	position: relative;
+	top: -20px;
+	margin-left: 20%;
+}
+
+.login_midpagesec {
+	height: 78%;
+	_height: 70%;
+}
+
+.login_bg {
+	background-image: url(../images/Login_BG.jpg);
+	background-position: left top;
+	background-repeat: repeat-x;
+}
+
+.login_img_eye {
+	background-image: url(../images/Login_Image_Eye.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 208px;
+}
+
+.loginarea {
+	background-image: url(../images/Login_LoginArea.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	width: 250px;
+	padding-top: 43px;
+	padding-left: 25px;
+}
+
+.loginarea_label {
+	height: 35px;
+	width: 35%;
+	color: #FFFFFF;
+}
+
+.login_text_input {
+	background-color: #E9E9E9;
+	border: 1px solid #CCCCCC;
+	font-size: 100%;
+	height: 15px;
+	padding-top: 2px;
+	_padding-top: 1px;
+	width: 120px;
+}
+
+.login_notetable {
+	margin-left: 30px;
+	width: 50%;
+}

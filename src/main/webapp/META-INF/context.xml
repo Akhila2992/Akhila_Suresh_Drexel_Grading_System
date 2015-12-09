@@ -1,0 +1,4 @@
+<Context path="/dgs" reloadable="true" crossContext="true" docBase="${catalina.home}/webapps/dgs" >
+    <!-- Extra info begin -->
+ 
+</Context>
